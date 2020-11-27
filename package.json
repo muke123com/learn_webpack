@@ -10,7 +10,11 @@
   "author": "mk",
   "license": "ISC",
   "devDependencies": {
+    "typescript": "^3.5.3",
     "webpack": "^4.28.1",
     "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "awesome-typescript-loader": "^5.2.1"
   }
 }
