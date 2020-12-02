@@ -1,5 +1,3 @@
-interface TestValue {
-    name: string
-}
+import { name } from "./one"
 
-let list: number[] = [1, 2, 3]
+console.log(name);
